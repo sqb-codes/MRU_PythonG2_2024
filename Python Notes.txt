@@ -1,0 +1,48 @@
+Programming
+
+Python
+- General Purpose Language
+  - Software Dev, Web App Dev, Mobile Dev, Security, AI, Gaming
+- Interpreted Language
+- Dynamically Typed
+- Functional Programming
+
+
+Operators in Python
+Arithmetic Operator -> +, -, /, *, %, //, **
+Comparison Operator -> ==, !=, >, <, >=, <=
+Logical Operator -> and, or, not
+Membership Operator -> in, not in
+Identity Operator -> is, is not
+
+
+Data Types in Python
+- Numeric
+  - int
+  - float
+  - complex
+- String
+  - str
+- Boolean
+  - True
+  - False
+- Bytes
+  - bytes
+- Collections
+  - List
+  - Tuples
+  - Dictionary
+  - Set
+
+
+
+
+
+
+
+
+
+
+
+
+
