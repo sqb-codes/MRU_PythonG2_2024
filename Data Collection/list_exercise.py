@@ -11,3 +11,11 @@ data = [
 2. Print Name and Average marks of each student
 3. Print Percentange of student
 '''
+for i in range(len(data)):
+    marks = data[i][-1]
+    name = data[i][1]
+    #total_marks = sum(marks)
+    total_marks = 0
+    for j in marks:
+        total_marks += j
+    print(f"Total marks of {name} are : {total_marks}")
